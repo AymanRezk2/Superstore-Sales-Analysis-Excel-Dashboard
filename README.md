@@ -26,7 +26,7 @@ The main goal was not just to visualize data — but to understand the business 
 Provides a high-level overview of key metrics for decision-makers (total sales, profit, quantity, discount, etc.).
 
 <p align="center">
-  <img src="https://github.com/AymanRezk2/Superstore-Sales-Analysis-Excel-Dashboard/blob/main/Screenshots/summary.png?raw=true" width="600">
+  <img src="https://github.com/AymanRezk2/Superstore-Sales-Analysis-Excel-Dashboard/blob/main/Screenshots/summary.png?raw=true" width="700">
 </p>
 
 ### 2. **Product Performance Dashboard**
@@ -38,7 +38,7 @@ Focuses on:
 * Category-level insights for product expansion.
 
 <p align="center">
-  <img src="https://github.com/AymanRezk2/Superstore-Sales-Analysis-Excel-Dashboard/blob/main/Screenshots/products.png?raw=true" width="600">
+  <img src="https://github.com/AymanRezk2/Superstore-Sales-Analysis-Excel-Dashboard/blob/main/Screenshots/products.png?raw=true" width="700">
 </p>
 
 ### 3. **Market (State-Level) Dashboard**
@@ -50,7 +50,7 @@ Analyzes:
 * Quarterly performance trends (Q1–Q4 growth).
 
 <p align="center">
-  <img src="https://github.com/AymanRezk2/Superstore-Sales-Analysis-Excel-Dashboard/blob/main/Screenshots/market.png?raw=true" width="600">
+  <img src="https://github.com/AymanRezk2/Superstore-Sales-Analysis-Excel-Dashboard/blob/main/Screenshots/market.png?raw=true" width="700">
 </p>
 
 ---
